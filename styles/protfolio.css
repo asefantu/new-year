@@ -1,0 +1,28 @@
+body{text-align: center;}
+.header{background-image: url(Banner\ Image.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin: 0px;
+padding: 0px;
+width: 1500px;
+height: 600px;
+}
+
+h4{color: white;}
+
+h1{color: white;
+}
+ h2{color: red;
+text-align: center;
+font-size: 88px;
+font-weight: 700;
+}   
+p{color: red;
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+}
+.categories{color: black;
+    font-size: 48px;
+font-weight: 800;}
